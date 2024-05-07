@@ -1,3 +1,5 @@
+//added to the github
+
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:new_disease_detecctor/services/disease_provider.dart';
